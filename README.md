@@ -1,21 +1,23 @@
-## Todd Kao
-#### Coinbase – Senior Frontend Engineer
-- **Tech:** React, React Native, TypeScript, GraphQL, styled-components
-- **Period:** Jul 2021 - Jan 2024
-- Led Retail US Derivatives frontend, secured regulatory approval, launched US-regulated crypto platform.
-- Gain/loss feature on web/mobile apps.
-- State management overhaul.
-- GraphQL migration.
+[<img src="https://github.com/user-attachments/assets/5ca941d6-ae26-4433-8aa6-fa644747a085" height="50" />](https://www.coinbase.com/)
+#### Senior Frontend Engineer <sub><sup>(July 2021 - January 2024)</sup></sub>
 
-#### Faire – Frontend Engineer
-- **Tech:** React, TypeScript, MobX, styled-components, Jest, Cypress
-- **Period:** Jul 2019 - Jul 2021
-- Enhanced Faire's main sites, led SEO, built internal tools, supported virtual trade shows.
+- Led Frontend Engineering for Retail US Derivatives, securing regulatory approval and launching a US-regulated crypto derivatives platform.
+- Launched gain/loss feature on Coinbase web and mobile app to enable users to track net profit/loss.
+- Redesigned and replaced state management for business critical buy/sell components on Coinbase web and mobile apps.
+- Migrated all of our team's RestAPI requests to using GraphQL.
 
-#### UNOapp – Frontend Engineer
-- **Tech:** Vue.js, Vuex
-- **Period:** May 2017 – Jul 2019
-- Developed digital signage admin portal, dynamic menu board.
+-----
+
+[<img src="https://github.com/user-attachments/assets/0a7d03f5-b5cf-4f61-a0a5-a47abe1e3f6e" height="50" />](https://www.faire.com)
+#### Frontend Engineer <sub><sup>(July 2019 - July 2021)</sup></sub>
+
+- Enhanced Faire's main sites, led SEO, built internal tools, supported virtual trade shows (live streams).
+
+-----
+
+[<img src="https://github.com/user-attachments/assets/c0b535b2-f775-4a74-9025-54954106d130" height="50" />](https://unoapp.com/)
+#### Frontend Engineer <sub><sup>(May 2017 – Jul 2019)</sup></sub>
+- Built ecommerce web apps, digital signage admin portal, dynamic menu board.
 
 ### Education
-- **Degree:** BSc in Computer Science - Ryerson University
+- BSc in Computer Science - Ryerson University
