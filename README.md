@@ -3,7 +3,7 @@
 
 - Led Frontend Engineering for Retail US Derivatives
   - Secured regulatory approval 
-  - Successfully launched a US-regulated crypto derivatives platform.
+  - Successfully launched US-regulated crypto derivatives platform.
 - Launched gain/loss feature on Coinbase web and mobile app
   - Enabling users to track net profit/loss.
 - Redesigned and replaced state management for business critical buy/sell components on Coinbase web and mobile apps.
