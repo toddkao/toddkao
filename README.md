@@ -1,8 +1,11 @@
 [<img src="https://github.com/user-attachments/assets/5ca941d6-ae26-4433-8aa6-fa644747a085" height="50" />](https://www.coinbase.com/)
 #### Coinbase - Senior Frontend Engineer (July 2021 - January 2024)
 
-- Led Frontend Engineering for Retail US Derivatives, securing regulatory approval and launching a US-regulated crypto derivatives platform.
-- Launched gain/loss feature on Coinbase web and mobile app to enable users to track net profit/loss.
+- Led Frontend Engineering for Retail US Derivatives
+  - Secured regulatory approval 
+  - Successfully launched a US-regulated crypto derivatives platform.
+- Launched gain/loss feature on Coinbase web and mobile app
+  - Enabling users to track net profit/loss.
 - Redesigned and replaced state management for business critical buy/sell components on Coinbase web and mobile apps.
 - Migrated all of our team's RestAPI requests to using GraphQL.
 
