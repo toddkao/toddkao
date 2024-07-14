@@ -1,16 +1,21 @@
-## Hi there 👋
+## Todd Kao
+#### Coinbase – Senior Frontend Engineer
+- **Tech:** React, React Native, TypeScript, GraphQL, styled-components
+- **Period:** Jul 2021 - Jan 2024
+- Led Retail US Derivatives frontend, secured regulatory approval, launched US-regulated crypto platform.
+- Gain/loss feature on web/mobile apps.
+- State management overhaul.
+- GraphQL migration.
 
-<!--
-**toddkao/toddkao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Faire – Frontend Engineer
+- **Tech:** React, TypeScript, MobX, styled-components, Jest, Cypress
+- **Period:** Jul 2019 - Jul 2021
+- Enhanced Faire's main sites, led SEO, built internal tools, supported virtual trade shows.
 
-Here are some ideas to get you started:
+#### UNOapp – Frontend Engineer
+- **Tech:** Vue.js, Vuex
+- **Period:** May 2017 – Jul 2019
+- Developed digital signage admin portal, dynamic menu board.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education
+- **Degree:** BSc in Computer Science - Ryerson University
